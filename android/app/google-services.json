@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747090737301",
+    "project_id": "sha5er",
+    "storage_bucket": "sha5er.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747090737301:android:9f7d350cb5426da373c39c",
+        "android_client_info": {
+          "package_name": "com.example.sha5er"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747090737301-lv272natnovhdc6gd94gk7qsilh6td0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVcNLChH_BExIg3rLnCHX0EDXvRuIumvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747090737301-lv272natnovhdc6gd94gk7qsilh6td0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
